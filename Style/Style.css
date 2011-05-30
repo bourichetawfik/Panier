@@ -1,0 +1,151 @@
+
+body{width:1262px;margin:auto;padding:auto;background:#EEE;}
+
+	.style{border:2px solid #CCC;-webkit-border-radius: 8px;-moz-border-radius: 8px;border-radius: 8px;outline: none;}
+	.champ{border:2px solid #CCC;-webkit-border-radius: 8px;-moz-border-radius: 8px;border-radius: 8px;text-indent:6px;}
+	.champ:focus{border:2px solid gray;-webkit-border-radius: 8px;-moz-border-radius: 8px;border-radius: 8px;outline: none;}
+	.log{font-family:comic sans ms;color:gray;}
+	
+	#dom{height:100%;}
+	#head{height:40px;width:1260px;}
+	#head1{height:60px;width:1260px;}
+	#menu{height:512px;width:20%;float:left;}
+	#page{height:512px;width:79.75%;float:right;}
+	#footer{height:100px;width:1260px;}
+	#signin{background-image:url("../Images/signup.png");
+			background-repeat:no-repeat;height:380px;width:250px;}
+			
+	/*#onlineshop{background-image:url("../Images/Online_Shop.gif");
+			background-repeat:no-repeat;height:300px;width:300px;float:left;margin-left:0.4%;}
+		*/	
+	#commanderonligne{background-image:url("../Images/commande-en-ligne.jpg");
+			background-repeat:no-repeat;height:510px;width:327px;float:right;}
+			
+			
+	#middle {
+			
+			height:400px;
+			width:1260px;
+			height:512px;
+		}
+	
+	#log{
+		
+		width : 43%;
+		height:100%;
+		float:left;
+		}
+	#space{
+			
+			background-image:url("../Images/new_account.png");
+			background-repeat:no-repeat;
+			width : 2.5%;
+			height:100%;
+			float:right;}
+	#space1{
+			
+			background-image:url("../Images/log.png");
+			background-repeat:no-repeat;
+			width : 2.5%;
+			height:100%;
+			float:right;
+			}
+			
+	#wrap{
+	
+	
+	width:345px;
+	}
+	
+	
+	/* div du lien de lougout*/
+	#heads{height:20px;width:200px;margin-top:-24.5px;margin-left:84.4%;}
+	/* div du logutilisateur*/
+	
+	
+	#session{
+			height:40px;width:200px;margin-left:83%;
+			}
+			
+	#loguser{
+			font-family : comic sans ms;color:gray;margin-top:-2%;margin-left:9.6%;
+			}
+			
+	#logout{
+			text-decoration:none;font-family : comic sans ms;position:relative;color:blue;
+			}
+	
+	#panier{
+			background-image:url("../Images/panierVide.png");
+			background-repeat:no-repeat;
+			width:300px;
+			height:300px;
+			
+			}
+	
+	#caisse{background-image:url("../Images/caisse.png");
+			background-repeat:no-repeat;
+			width:300px;
+			height:300px;
+			position:absolute;}
+	
+	
+	#formulaire{
+	
+	width:345px;
+	}
+	
+	#votrepanier{height:100px;width:400px;}
+	#mypanier{background-image:url("../Images/images.png");background-repeat:no-repeat;height:100px;width:100px;float:right;}	
+	#go{background-image:url("../Images/Go.gif");background-repeat:no-repeat;height:100px;width:100px;float:right;}	
+	#yes{background-image:url("../Images/yes.png");background-repeat:no-repeat;height:100px;width:100px;float:right;}	
+	#no{background-image:url("../Images/no1.png");background-repeat:no-repeat;height:100px;width:100px;float:right;}	
+	 /*
+	 div{border:1px solid green;}
+	
+	#check{
+			background-image : url("../Images/ok.png");
+			background-repeat:no-repeat;
+			width:32px;
+			height:32px;
+			}
+			*/
+	#plat	{
+			width : 100px;
+			height: 512px;
+			}
+			
+	#pepsi{
+			background-image : url("../Images/pepsi.png");
+			background-repeat:no-repeat;
+			width:100px;
+			height:100px;
+			}
+			
+	#glace{
+			background-image : url("../Images/glace.png");
+			background-repeat:no-repeat;
+			width:100px;
+			height:100px;
+			}
+			
+	#tarte{
+			background-image : url("../Images/tarte.png");
+			background-repeat:no-repeat;
+			width:100px;
+			height:100px;
+			}
+			
+	#pizza{
+			background-image : url("../Images/pizza.png");
+			background-repeat:no-repeat;
+			width:100px;
+			height:100px;
+			}
+			
+	#hamburger{
+			background-image : url("../Images/hamburger.png");
+			background-repeat:no-repeat;
+			width:100px;
+			height:100px;
+			}

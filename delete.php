@@ -1,0 +1,1 @@
+<?phpsession_start();$id = $_GET['id'];$con = mysql_connect("localhost","root","");$database = "webapp";$db =  mysql_select_db($database,$con);$query = sprintf("delete from  commander where id ='%s' ",$id);$result = mysql_query($query,$con);header('Location:monpanier.php');?>
